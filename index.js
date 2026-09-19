@@ -51,30 +51,103 @@
 // let b = 30
 // console.log(a + b);
 
-let rent = 100;
-let tax = rent * 0.18;
-let maintenance = rent * 0.05;
-let total = rent + tax + maintenance;
-console.log("Total monthly cost:","rs",total);
+// let rent = 100;
+// let tax = rent * 0.18;
+// let maintenance = rent * 0.05;
+// let total = rent + tax + maintenance;
+// console.log("Total monthly cost:","rs",total);
 
 
-let money = 1000;
-let expenses = 750;
-let remaining = money - expenses;
-console.log("Remaining money:","rs",remaining);
-console.log("MONEY")
+// let money = 1000;
+// let expenses = 750;
+// let remaining = money - expenses;
+// console.log("Remaining money:","rs",remaining);
+// console.log("MONEY")
 
-let totalTime = 200;
-let spendTime = 100;
-let remainingTime = totalTime-spendTime
-console.log("Remainingtime",remainingTime,"min")
+// let totalTime = 200;
+// let spendTime = 100;
+// let remainingTime = totalTime-spendTime
+// console.log("Remainingtime",remainingTime,"min")
 
-let productPrice = 15000;
-let productQuantity = 4;
-let finalPrice = productPrice*productQuantity
-console.log("Total price",finalPrice,"Rs")
+// let productPrice = 15000;
+// let productQuantity = 4;
+// let finalPrice = productPrice*productQuantity
+// console.log("Total price",finalPrice,"Rs")
 
-let bill = 900;
-let people = 3;
-let perPertion = bill/people;
-console.log(perPertion)
+// let bill = 900;
+// let people = 3;
+// let perPertion = bill/people;
+// console.log(perPertion)
+
+// let n=78;
+// console.log("remaining chocolate",n%4)
+
+// let t=131
+// let hour=Math.floor(t/60)
+// let min=t%60
+// console.log(hour,"Hour",min,"min")
+
+// console.log(4536767824359064570938673047666668**9)
+// console.log(4**(1/2))
+// console.log(27**(1/3))
+
+
+// let a=12
+// console.log("Area=",a**2)
+
+// let bonus = 5;
+// bonus += 2;
+// console.log(`The final score after adding bonus => ${bonus}`)
+
+// let emi=10000;
+// emi-=1000;
+// console.log(`the remaining emi count=>${emi/1000}`)
+
+// let ogPrice=1000;
+// salePrice=(1000-(ogPrice/100)*25);
+// console.log(`the sale price is ${salePrice}`)
+
+// let a = Number(prompt("enter the number 1:"));
+// let b = Number(prompt("enter the number 2:"))7;
+// let sum = a+b;
+// console.log(sum)
+
+// let x=25;
+// let y=5;
+// x/=y
+// console.log(x)
+
+// let workhour=35
+// let worker=7;
+// console.log(workhour/worker)
+
+// let a =3000;
+// let b =10;
+// a/=b;
+// console.log(`per person shair=${b}`)
+
+// let a=17
+// a%=5
+// console.log(`remaining song=${a}`)
+
+// let x=2
+// x**=20
+// console.log(x)
+
+// let prompt = require("prompt-sync")();
+// let age=prompt("Enter age: ");
+// console.log(`my age is ${age}`)
+
+// let a=7
+// let b=7
+// console.log(a==b)
+
+// let prompt = require("prompt-sync")();
+// let age=prompt("Enter age: ");
+// console.log(`My age is ${age}`)
+
+let PIN = 1234
+let enterPIN ="1234"
+let res = PIN == enterPIN
+console.log(res)
+
