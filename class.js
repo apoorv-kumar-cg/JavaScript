@@ -146,8 +146,45 @@
 // let age=prompt("Enter age: ");
 // console.log(`My age is ${age}`)
 
-let PIN = 1234
-let enterPIN ="1234"
-let res = PIN == enterPIN
-console.log(res)
+// let PIN = 1234
+// let enterPIN ="1234"
+// let res = PIN == enterPIN
+// console.log(res)
 
+// let OGtheam='dark'
+// let newtheam='light'
+// let compair= OGtheam == newtheam
+// console.log(`the compairgasion ${compair}`)
+
+// let saveLanguage="ENG"
+// let  currentLanguage="HINDI"
+// console.log(`is lang same?--${saveLanguage===currentLanguage}`)
+
+// console.log(2 == "2")
+// console.log(2 === "2")
+// console.log(2 === 2)
+
+// console.log(Number(undefined))
+
+
+// let scoreId="abc123"
+// let productId="abc123"
+// console.log(`is ID same=${scoreId===productId}`)
+
+
+// let save="upi"
+// let selective="cash"
+// console.log(`is payment same=${save===selective}
+
+// let currentDevice="apple"
+// let registeredDevice="nothing"
+// console.log(`Is device same==${currentDevice==registeredDevice}`)
+
+let salary = 60000;
+let threshold = 50000;
+let isHighEarner = salary > threshold; 
+console.log(isHighEarner)
+
+let roomtemp=40;
+let comfortabletemp=45;
+console.log(`Is temp is comfofrtable ${roomtemp<=comfortabletemp}`)
