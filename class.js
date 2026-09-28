@@ -172,19 +172,52 @@
 // console.log(`is ID same=${scoreId===productId}`)
 
 
-// let save="upi"
-// let selective="cash"
-// console.log(`is payment same=${save===selective}
+
+// let save="upi";
+// let selective="cash";
+// console.log(`is payment same=${save===selective}`)
 
 // let currentDevice="apple"
 // let registeredDevice="nothing"
 // console.log(`Is device same==${currentDevice==registeredDevice}`)
 
-let salary = 60000;
-let threshold = 50000;
-let isHighEarner = salary > threshold; 
-console.log(isHighEarner)
+// let salary = 60000;
+// let threshold = 50000;
+// let isHighEarner = salary > threshold; 
+// console.log(isHighEarner)
 
-let roomtemp=40;
-let comfortabletemp=45;
-console.log(`Is temp is comfofrtable ${roomtemp<=comfortabletemp}`)
+// let roomtemp=40;
+// let comfortabletemp=45;
+// console.log(`Is temp is comfofrtable ${roomtemp<=comfortabletemp}`)
+
+// let workingHour=40
+// let workHour=50
+// console.log(`Is wowrking hour is good=${workHour<=workingHour}`)
+
+// let signup=true
+// let logged=false
+// console.log(signup)
+
+// let x= 100
+// let y=++x;
+// console.log(y,x)
+
+
+// let x= 100
+// let y=x++;
+// console.log(y,x)
+
+// let x= 100
+// let y=x--;
+// console.log(y,x)
+
+// let x= 100
+// let y=--x;/
+// console.log(y,x)0
+
+// console.log(typeof(true))
+
+// console.log(2+"2")
+// console.log(2-"2")
+// console.log(2*"2")
+// console.log(2/"2")
